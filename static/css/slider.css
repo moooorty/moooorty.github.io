@@ -27,7 +27,7 @@ NOTE: This is Slider style file. All Slider related style included in this file.
   box-shadow: 5px 0px 5px rgba(0, 0, 0, 0.2);
 }
 .slider-info-text > h2 {
-  font-size: 80px;
+  font-size: 60px;
   font-weight: 300;
   text-transform: capitalize;
 }
@@ -44,11 +44,11 @@ NOTE: This is Slider style file. All Slider related style included in this file.
     border: 3px solid #fff;
 }
 .slider-info-img > img {
-  width: 100%;
+  width: 80%;
 }
 .all-slider-text {
   background-color: #f7f7f7;
-  margin-top: 185px;
+  margin-top: 125px;
   padding: 30px;
 }
 
@@ -66,7 +66,7 @@ NOTE: This is Slider style file. All Slider related style included in this file.
 .slider-info-text{}
 .slider-info-text h1 {
   color: #444;
-  font-weight: 400;
+  font-weight: 300;
   letter-spacing: 2px;
   text-transform: uppercase;
 }
