@@ -49,3 +49,21 @@
 .section-margin {
   margin-top: 60px; /* 调整这个值以控制下移的幅度 */
 }
+.image-container {
+  position: relative;
+  display: inline-block; /* 使容器大小适应内容 */
+}
+
+.text-overlay {
+  position: absolute;
+  top: 100;
+  left: 20;
+  background-color: rgba(0, 0, 0, 0); /* 文本背景颜色，可根据需要调整 */
+  color: #fff; /* 文本颜色 */
+  padding: 10px; /* 文本内边距，可根据需要调整 */
+}
+
+.text-overlay h2,
+.text-overlay p {
+  margin: 0;
+}
